@@ -61,12 +61,20 @@ void loop() {
 
 
 🖼️ Project Setup Images
+<br>
+
 🔌 System Setup
 <img src="Images/setup_with_laptop.jpg" width="400"/>
+
+<br>
 🖥️ Serial Output 1
 <img src="Images/serial_output_1.jpg" width="400"/>
+<br>
+
 🖥️ Serial Output 2
 <img src="Images/serial_output_2.jpg" width="400"/>
+
+<Br>
 ✋ Touch Sensor Wiring
 <img src="Images/touch_sensor_wiring.jpg" width="400"/>
 
@@ -84,7 +92,7 @@ Arduino IDE
 https://www.arduino.cc/en/software/
 
 👨‍🎓 Author
-Yatin Vadehra
+<b> Yatin Vadehra </b>
 B.Tech Electronics and Communication Engineering
 The NorthCap University (2021–2025)
 
