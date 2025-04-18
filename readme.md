@@ -60,39 +60,49 @@ void loop() {
 
 
 
-🖼️ Project Setup Images
-<br>
-
+## 🖼️ Project Setup Images
 🔌 System Setup
+<br>
 <img src="Images/setup_with_laptop.jpg" width="400"/>
 
 <br>
+
 🖥️ Serial Output 1
+<br>
 <img src="Images/serial_output_1.jpg" width="400"/>
+
 <br>
 
 🖥️ Serial Output 2
+<br>
 <img src="Images/serial_output_2.jpg" width="400"/>
 
-<Br>
+<br>
+
+
 ✋ Touch Sensor Wiring
+<br>
 <img src="Images/touch_sensor_wiring.jpg" width="400"/>
 
-📄 References
-NodeMCU Docs
+<br>
+
+## 📄 References
+- NodeMCU Docs
 https://nodemcu.readthedocs.io/en/release/
 
-ACS712 Datasheet
+- ACS712 Datasheet
 https://cdn.sparkfun.com/assets/4/a/a/0/8/ACS712.pdf
 
-TTP223 Touch Sensor
+- TTP223 Touch Sensor
 https://www.electronicwings.com/nodemcu/ttp223-touch-sensor-interfacing-with-nodemcu
 
-Arduino IDE
+- Arduino IDE
 https://www.arduino.cc/en/software/
 
-👨‍🎓 Author
+## 👨‍🎓 Author
 <b> Yatin Vadehra </b>
+<br>
 B.Tech Electronics and Communication Engineering
+<br>
 The NorthCap University (2021–2025)
 
